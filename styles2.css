@@ -1,0 +1,40 @@
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #e34141;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 238px;
+  top: 91px;
+}
+.homepage-about-us-contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 531px;
+  top: 83px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  position: absolute;
+  left: 607px;
+  top: 435px;
+}
